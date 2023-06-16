@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">laxrek</string>
+    <string-array name="usertype">
+        <item>Parent</item>
+        <item>Child</item>
+    </string-array>
+</resources>
